@@ -1,0 +1,16 @@
+cupy_cuda113==10.6.0
+einops==0.4.1
+matplotlib==3.6.0
+numpy==1.23.2
+numpy==1.20.2
+opencv_python==4.8.0.74
+opencv_python_headless==4.6.0.66
+Pillow==9.2.0
+Pillow==10.2.0
+scipy==1.8.1
+thop==0.1.1.post2209072238
+tifffile==2022.8.12
+timm==0.9.9
+torch==1.12.1
+torchvision==0.13.1
+tqdm==4.48.2
